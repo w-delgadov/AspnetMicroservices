@@ -4,8 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Data.Entity;
-using System.Data.SqlClient;
+
 
 namespace Ordering.API.Extensions
 {
